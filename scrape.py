@@ -2,8 +2,33 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import os
+import sys
 
 URL = "https://austin.showlists.net/"
+
+
+def check_email_config():
+    """Check if email configuration is present. Exit if missing."""
+    mailgun_api_key = os.environ.get("MAILGUN_API_KEY")
+    mailgun_domain = os.environ.get("MAILGUN_DOMAIN")
+    from_email = os.environ.get("MAILGUN_FROM_EMAIL")
+    to_email = os.environ.get("MAILGUN_TO_EMAIL")
+    
+    missing = []
+    if not mailgun_api_key:
+        missing.append("MAILGUN_API_KEY")
+    if not mailgun_domain:
+        missing.append("MAILGUN_DOMAIN")
+    if not from_email:
+        missing.append("MAILGUN_FROM_EMAIL")
+    if not to_email:
+        missing.append("MAILGUN_TO_EMAIL")
+    
+    if missing:
+        print(f"Error: Missing required email configuration: {', '.join(missing)}")
+        sys.exit(1)
+    
+    return mailgun_api_key, mailgun_domain, from_email, to_email
 
 
 def read_existing_shows():
@@ -17,15 +42,7 @@ def read_existing_shows():
     return existing_shows
 
 
-def send_email(new_shows):
-    mailgun_api_key = os.environ.get("MAILGUN_API_KEY")
-    mailgun_domain = os.environ.get("MAILGUN_DOMAIN")
-    from_email = os.environ.get("MAILGUN_FROM_EMAIL")
-    to_email = os.environ.get("MAILGUN_TO_EMAIL")
-    
-    if not all([mailgun_api_key, mailgun_domain, from_email, to_email]):
-        print("Mailgun configuration missing. Skipping email notification.")
-        return
+def send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_email):
     
     if not new_shows:
         return
@@ -40,25 +57,25 @@ def send_email(new_shows):
     # Mailgun API endpoint
     url = f"https://api.mailgun.net/v3/{mailgun_domain}/messages"
     
-    try:
-        response = requests.post(
-            url,
-            auth=("api", mailgun_api_key),
-            data={
-                "from": from_email,
-                "to": to_email,
-                "subject": f"New Austin Shows Added ({len(new_shows)} new)",
-                "text": email_body
-            },
-            timeout=30
-        )
-        response.raise_for_status()
-        print(f"Email sent successfully. Status code: {response.status_code}")
-    except Exception as e:
-        print(f"Error sending email: {e}")
+    response = requests.post(
+        url,
+        auth=("api", mailgun_api_key),
+        data={
+            "from": from_email,
+            "to": to_email,
+            "subject": f"New Austin Shows Added ({len(new_shows)} new)",
+            "text": email_body
+        },
+        timeout=30
+    )
+    response.raise_for_status()
+    print(f"Email sent successfully. Status code: {response.status_code}")
 
 
 def scrape():
+    # Check email configuration first - fail early if missing
+    mailgun_api_key, mailgun_domain, from_email, to_email = check_email_config()
+    
     # Read existing shows
     existing_shows = read_existing_shows()
     
@@ -116,9 +133,9 @@ def scrape():
     
     # Send email if there are new shows
     if new_shows:
-        send_email(new_shows)
+        send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_email)
     
-    # Write all shows to TXT file
+    # Write all shows to TXT file (only if we got this far without errors)
     with open("shows.txt", "w", encoding="utf-8") as f:
         for show_line in all_shows:
             f.write(f"{show_line}\n")

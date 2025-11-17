@@ -67,6 +67,8 @@ def send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_emails
     
     # Mailgun API endpoint
     url = f"https://api.mailgun.net/v3/{mailgun_domain}/messages"
+
+    print(f"Sending email to {to_emails}##")
     
     response = requests.post(
         url,
@@ -79,8 +81,19 @@ def send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_emails
         },
         timeout=30
     )
-    response.raise_for_status()
-    print(f"Email sent successfully. Status code: {response.status_code}")
+    try:
+        response.raise_for_status()
+    except requests.HTTPError as exc:
+        body = ""
+        if exc.response is not None:
+            try:
+                body = exc.response.text.strip()
+            except Exception:
+                body = "<unable to read response body>"
+        print(f"Mailgun API error: {exc}. Response body: {body}")
+        raise
+    else:
+        print(f"Email sent successfully. Status code: {response.status_code}")
 
 
 def scrape():

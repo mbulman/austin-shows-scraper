@@ -7,6 +7,15 @@ import sys
 URL = "https://austin.showlists.net/"
 
 
+def parse_recipients(raw_value):
+    """Split comma-delimited recipient string into a list of emails."""
+    recipients = [email.strip() for email in raw_value.split(",") if email.strip()]
+    if not recipients:
+        print("Error: MAILGUN_TO_EMAIL must contain at least one recipient address")
+        sys.exit(1)
+    return recipients
+
+
 def check_email_config():
     """Check if email configuration is present. Exit if missing."""
     mailgun_api_key = os.environ.get("MAILGUN_API_KEY")
@@ -28,7 +37,9 @@ def check_email_config():
         print(f"Error: Missing required email configuration: {', '.join(missing)}")
         sys.exit(1)
     
-    return mailgun_api_key, mailgun_domain, from_email, to_email
+    recipients = parse_recipients(to_email)
+    
+    return mailgun_api_key, mailgun_domain, from_email, recipients
 
 
 def read_existing_shows():
@@ -42,7 +53,7 @@ def read_existing_shows():
     return existing_shows
 
 
-def send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_email):
+def send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_emails):
     
     if not new_shows:
         return
@@ -62,7 +73,7 @@ def send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_email)
         auth=("api", mailgun_api_key),
         data={
             "from": from_email,
-            "to": to_email,
+            "to": to_emails,
             "subject": f"New Austin Shows Added ({len(new_shows)} new)",
             "text": email_body
         },
@@ -74,7 +85,7 @@ def send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_email)
 
 def scrape():
     # Check email configuration first - fail early if missing
-    mailgun_api_key, mailgun_domain, from_email, to_email = check_email_config()
+    mailgun_api_key, mailgun_domain, from_email, to_emails = check_email_config()
     
     # Read existing shows
     existing_shows = read_existing_shows()
@@ -133,7 +144,7 @@ def scrape():
     
     # Send email if there are new shows
     if new_shows:
-        send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_email)
+        send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_emails)
     
     # Write all shows to TXT file (only if we got this far without errors)
     with open("shows.txt", "w", encoding="utf-8") as f:

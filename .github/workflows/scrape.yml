@@ -28,7 +28,7 @@ jobs:
           MAILGUN_API_KEY: ${{ secrets.MAILGUN_API_KEY }}
           MAILGUN_DOMAIN: ${{ secrets.MAILGUN_DOMAIN }}
           MAILGUN_FROM_EMAIL: ${{ secrets.MAILGUN_FROM_EMAIL }}
-          MAILGUN_TO_EMAIL: ${{ secrets.MAILGUN_TO_EMAIL }}
+          MAILGUN_TO_EMAIL: ${{ vars.MAILGUN_TO_EMAIL }}
         run: python scrape.py
 
       - name: Commit changes

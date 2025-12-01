@@ -59,7 +59,7 @@ def send_email(new_shows_data, mailgun_api_key, mailgun_domain, from_email, to_e
         return
     
     # Format HTML email body
-    html_lines = [f"<p>Found {len(new_shows_data)} new show(s):</p>"]
+    html_lines = [f"<p>{len(new_shows_data)} shows added:</p>"]
     for date_str, formatted_date, title, venue, link in new_shows_data:
         # Make title a bold hyperlink, remove raw link text
         title_link = f'<b><a href="{link}">{title}</a></b>'
@@ -102,7 +102,6 @@ def scrape():
     # Check email configuration first - fail early if missing
     mailgun_api_key, mailgun_domain, from_email, to_emails = check_email_config()
     
-    # Read existing shows
     existing_shows = read_existing_shows()
     
     r = requests.get(URL, timeout=30)
@@ -121,22 +120,20 @@ def scrape():
 
         # for each show listing inside this date block:
         for li in date_div.select("li"):
-            anchors = li.find_all("a")
-            if not anchors:
-                continue
-
-            # Find title and venue from separate anchor tags
+            # Find title and venue from any immediate child elements
             title = ""
             venue = ""
             link = ""
             
-            for a in anchors:
-                if a.get("data-show-title"):
-                    title = a.get("data-show-title", "").strip()
-                    link = a.get("href", "").strip()
-                # Check if this anchor has "venue-title" in its classes
-                if a.get("class") and "venue-title" in a.get("class"):
-                    venue = a.get_text(strip=True)
+            # Check all direct children of li (not just anchors)
+            for child in li.find_all(recursive=False):
+                if child.get("data-show-title"):
+                    title = child.get("data-show-title", "").strip()
+                    if child.name == "a":
+                        link = child.get("href", "").strip()
+
+                if child.get("class") and "venue-title" in child.get("class"):
+                    venue = child.get_text(strip=True)
 
             if not title:
                 continue

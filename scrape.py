@@ -53,17 +53,19 @@ def read_existing_shows():
     return existing_shows
 
 
-def send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_emails):
+def send_email(new_shows_data, mailgun_api_key, mailgun_domain, from_email, to_emails):
     
-    if not new_shows:
+    if not new_shows_data:
         return
     
-    # Format email body
-    body_lines = [f"Found {len(new_shows)} new show(s):\n"]
-    for show in new_shows:
-        body_lines.append(show)
+    # Format HTML email body
+    html_lines = [f"<p>Found {len(new_shows_data)} new show(s):</p>"]
+    for date_str, formatted_date, title, venue, link in new_shows_data:
+        # Make title a bold hyperlink, remove raw link text
+        title_link = f'<b><a href="{link}">{title}</a></b>'
+        html_lines.append(f"<p>{formatted_date} - {title_link} @ {venue}</p>")
     
-    email_body = "\n".join(body_lines)
+    html_body = "\n".join(html_lines)
     
     # Mailgun API endpoint
     url = f"https://api.mailgun.net/v3/{mailgun_domain}/messages"
@@ -76,8 +78,8 @@ def send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_emails
         data={
             "from": from_email,
             "to": to_emails,
-            "subject": f"New Austin Shows Added ({len(new_shows)} new)",
-            "text": email_body
+            "subject": f"New Austin Shows Added ({len(new_shows_data)} new)",
+            "html": html_body
         },
         timeout=30
     )
@@ -139,6 +141,10 @@ def scrape():
             if not title:
                 continue
 
+            # Exclude things we won't tend to care about
+            if venue in ["Elephant Room", "Sagebrush"]:
+                continue
+
             results.append([date_str, formatted_date, title, venue, link])
 
     # Sort by date, then title
@@ -146,18 +152,19 @@ def scrape():
 
     # Format all shows and find new ones
     all_shows = []
-    new_shows = []
+    new_shows_data = []
     
     for date_str, formatted_date, title, venue, link in results:
-        show_line = f"{formatted_date} - {title} @ {venue} - {link}"
+        # Remove link from show_line format
+        show_line = f"{formatted_date} - {title} @ {venue}"
         all_shows.append(show_line)
         
         if show_line not in existing_shows:
-            new_shows.append(show_line)
+            new_shows_data.append([date_str, formatted_date, title, venue, link])
     
     # Send email if there are new shows
-    if new_shows:
-        send_email(new_shows, mailgun_api_key, mailgun_domain, from_email, to_emails)
+    if new_shows_data:
+        send_email(new_shows_data, mailgun_api_key, mailgun_domain, from_email, to_emails)
     
     # Write all shows to TXT file (only if we got this far without errors)
     with open("shows.txt", "w", encoding="utf-8") as f:

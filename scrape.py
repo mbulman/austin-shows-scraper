@@ -142,7 +142,7 @@ def scrape():
                 continue
 
             # Exclude things we won't tend to care about
-            if venue in ["Elephant Room", "Sagebrush"]:
+            if venue in ["Elephant Room", "Sagebrush", "C-Boy’s Heart & Soul"]:
                 continue
 
             results.append([date_str, formatted_date, title, venue, link])

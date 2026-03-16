@@ -1,30 +1,3 @@
-Sun Mar 15 - (Unofficial SXSW) Born Loser Magazine 2-Day Showcase @ Chess Club
-Sun Mar 15 - 2026 KOOP Radio Day Party featuring Lineup: Moving Panoramas, Calico Sky, LCLS, The Whale, Dead Canyon Family Reunion, Nathan Felix & the Dirty Rotten Boys, Kim Simpson, Lee Trent, Della Terra, Mitts, Todochido (DJ set), Jawgut, Meredith @ Batch Craft Beer & Kolaches
-Sun Mar 15 - BARFIELD @ ABGB
-Sun Mar 15 - BRICK HAUS with Brigitte Bandit @ 29th Street Ballroom
-Sun Mar 15 - Bonnie X Clyde After Hours @ Kingdom
-Sun Mar 15 - Chuck Prophet & His Cumbia Shoes @ Continental Club
-Sun Mar 15 - Cocktail Steel w/Rose Sinclair / SXSTP / Veteran Songwriter Circle hosted by Drew Landry @ Sam's Town Point
-Sun Mar 15 - ComboPlate Booking's South By Soup Fest featuring Nathan Hamilton, BettySoo, Beaver Nelson, Andrew Duplantis Band, Erica Michelle, Robert Parker Jr., Raina Rose, Jimmy Joe Natoli @ Guero's
-Sun Mar 15 - Hipster Robots featuring Joudy, Garrett T. Capps, Jon Langford, Zastava, The Sheila Divine, Firecracker, Lee Bains III, Commercial Breaks, Joyeria, Big Fat Head, TV's Daniel @ The Side Bar
-Sun Mar 15 - Jazz Re:Freshed DJ’s Official SXSW Showcase @ Flamingo Cantina
-Sun Mar 15 - Lew Apollo, Dylan Leblanc, Angela Autumn, Pat Reedy, The Band Loula, Mac Cornish @ Colton House Hotel
-Sun Mar 15 - Music Week Live at the Oak Garden: Comboplate Booking’s SXSF – South By Soup Fest 2026 @ Guero's
-Sun Mar 15 - PLANETARY GROUP PRESENTS  FOCUS WALES  2026 SXSW SHOWCASE & MIXER featuring Hana Lili, Panic Shack, Gwenno, Ben Ellis, The Family Battenberg @ Swan Dive
-Sun Mar 15 - Peelander-Fest 2026 featuring Peelander-Z (Planet-P), CorMae (Austin, TX), Sultanes Del Yonne (El Paso, TX), mypilotis (San Antonio), Swimwear Department (Houston, TX), Grrrl Gang (Indonesia), Kev Bev and The Woodland (Austin, TX), Snail Mate (PHX, AZ) @ Zilker Brewing
-Sun Mar 15 - SWASS NITE – FREE Day Party @ Hotel Vegas
-Sun Mar 15 - SXSW 2026 Official TRAFFIC MUSIC GROUP Showcases @ Continental Club
-Sun Mar 15 - SXSW OFFICIAL: Fire Records x Songbird Creative x Anniversary Group ft. Liz Cooper, Jon Langford,Graham Reynolds, Spoon Bender, & More! @ Hotel Vegas
-Sun Mar 15 - SXSW: Superhuman AI @ Antone's
-Sun Mar 15 - SXSW: The Billboard House, Conversations With, Noah Kahan and Nick Sweeney, Jonás Cuarón and Edgar Barrera, Mau P, Performances By, The Gringos, Feel Trip., Sassy 009, Amie Blu, Momo Boyd, Ink, Ttssfu, Panic Shack, THEBROSFRESH @ Mohawk
-Sun Mar 15 - SXSW: The Billboard House, The Offline Sessions, A Phone-free Sxsw Afterparty, exclusive performances @ Mohawk
-Sun Mar 15 - Sound System Sunday @ Empire Control Room & Garage
-Sun Mar 15 - St. Pickles Day Pickle Party ft. The Spits, Sheer Mag, Slash Need, Fleshripper, and more! @ Hotel Vegas
-Sun Mar 15 - THE STAGE at SXSW: Mau P @ Moody Amphitheater
-Sun Mar 15 - TODO Records Showcase: feat. Surfbort, Annabelle Chairlegs, Tear Dungeon, Porcelain, Big Bill @ Radio East
-Sun Mar 15 - The Renowned Renaissance Faire @ The Far Out Lounge and Stage
-Sun Mar 15 - UMAW'S FAIR PAY AT SXSW PARTY 2026 @ Hole In The Wall
-Sun Mar 15 - WELCOME TO THE JANGLE PRESENTED BY AUSTIN TOWN HALL AND CAIN'S HOT SAUCE: Ancient Greece, Balaclava, Two-Man Giant Squid, CDSM, Victoryland, Drook, Radium Dolls, Lucid Express, Oscar Twins, Nightbus, Honey I'm Home, Joyeria, Hot Garbage @ 29th Street Ballroom
 Mon Mar 16 - (Official SXSW) Casket Cassette / Kali Horse / haha Laughing / Johnny Falloon / Lucky @ Chess Club
 Mon Mar 16 - Bluegrass Night with The Bluegrass Outfit @ Radio Coffee & Beer
 Mon Mar 16 - COMMERCIAL BREAK ft. Shannon Shaw Band @ Hotel Vegas
@@ -182,8 +155,11 @@ Wed Mar 25 - SOLD OUT – FIA: THE LOVE ME TOUR W/ JOHNNY SUITE & DJ Ozum @ Anto
 Wed Mar 25 - The California Honeydrops @ Mohawk
 Wed Mar 25 - Timmy Campbell Experience / Libby & the Loveless / Guthrie Girls @ Sam's Town Point
 Wed Mar 25 - Wed, Mar 25 @ Parker Jazz Club
+Wed Mar 25 - William Harries Graham, Jon Dee Graham, Louisiana Surf Department @ Continental Club
 Thu Mar 26 - American Aquarium @ 3TEN Austin City Limits Live
 Thu Mar 26 - Antone’s Stage at Still Austin: Paul Val w/ Soul Man Sam @ Antone's
+Thu Mar 26 - Barfield, The Tyrant @ Continental Club
+Thu Mar 26 - Casper Rawls @ Continental Club
 Thu Mar 26 - Grant & Ash @ 29th Street Ballroom
 Thu Mar 26 - Jay Webb: Bury Me With Bourbon Tour w/ Ashley Walls @ Antone's
 Thu Mar 26 - Mary Battiata / Seth James / Jimmie Dreams & Friends @ Sam's Town Point
@@ -209,6 +185,7 @@ Fri Mar 27 - Redd Kross @ 29th Street Ballroom
 Fri Mar 27 - Rob Baird @ Saxon Pub
 Fri Mar 27 - SOLD OUT – Winyah: No Place I’d Rather Be Tour w/ Edgehill @ Antone's
 Fri Mar 27 - Slim Thug w/ DJ Hella Yella the Garage @ Empire Control Room & Garage
+Fri Mar 27 - The Blues Specialists @ Continental Club
 Fri Mar 27 - The Fab Four @ Paramount Theater
 Fri Mar 27 - The Last Dinner Party with Florence Road @ Austin City Limits Live at The Moody Theater
 Fri Mar 27 - The Waymores @ Sam's Town Point
@@ -654,3 +631,5 @@ Sat Jun 13 - Stewart Copeland @ Paramount Theater
 Sat Jun 13 - The Rush Tribute Project @ Paramount Theater
 Sun Jun 14 - Joe Jackson @ Paramount Theater
 Sun Jun 14 - The Kevin Langue Show: Live! @ Austin City Limits Live at The Moody Theater
+Mon Jun 15 - RX Bandits, Maps & Atlases @ Mohawk
+Tue Jun 16 - Vinyl Williams w/ HOTT MT @ The Far Out Lounge and Stage

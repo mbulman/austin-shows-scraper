@@ -1,28 +1,3 @@
-Fri Mar 27 - A Live One - Phish Tribute @ 3TEN Austin City Limits Live
-Fri Mar 27 - Armadillo Road @ Drinks Backyard
-Fri Mar 27 - Bruce Smith Band @ Guero's
-Fri Mar 27 - CESAR CRESPO @ ABGB
-Fri Mar 27 - Camille Stites / lynndigo / Grits @ Chess Club
-Fri Mar 27 - Ceramic / Georgia Britt / Sky Citizen @ Chess Club
-Fri Mar 27 - D.I. Invades Austin featuring  D.I., Brewtality Inc., The Meanhearts, Pachuco Cabras, Worm Suicide @ Kick Butt Coffee
-Fri Mar 27 - DJ SOULARREAL on the Hotel Patio! @ Hotel Vegas
-Fri Mar 27 - DeadEye - Austin's Grateful Dead Tribute Band @ The Far Out Lounge and Stage
-Fri Mar 27 - FREE SHOW FRIDAY @ Hotel Vegas
-Fri Mar 27 - Fri, Mar 27 @ Parker Jazz Club
-Fri Mar 27 - Hashtronaut @ Hole In The Wall
-Fri Mar 27 - Oof Fighters, Lonestar Supernova, Wicked Vixxen @ Mohawk
-Fri Mar 27 - Otis Wilkins w/ Heavy Velvet and Late Wife @ 13th Floor
-Fri Mar 27 - Redd Kross @ 29th Street Ballroom
-Fri Mar 27 - Rob Baird @ Saxon Pub
-Fri Mar 27 - SOLD OUT – Winyah: No Place I’d Rather Be Tour w/ Edgehill @ Antone's
-Fri Mar 27 - Slim Thug w/ DJ Hella Yella the Garage @ Empire Control Room & Garage
-Fri Mar 27 - The Blues Specialists @ Continental Club
-Fri Mar 27 - The Fab Four @ Paramount Theater
-Fri Mar 27 - The Last Dinner Party with Florence Road @ Austin City Limits Live at The Moody Theater
-Fri Mar 27 - The Mother Hips, Jennifer Foster & The Audacity @ Continental Club
-Fri Mar 27 - The Waymores @ Sam's Town Point
-Fri Mar 27 - Wild Child @ Radio East
-Fri Mar 27 - Women’s History Month – Celebration of Women in Music! @ Flamingo Cantina
 Sat Mar 28 - Africa Night! featuring Afro Jazz, System Positif, Sahara Allstars @ Sahara Lounge
 Sat Mar 28 - Anthropos Arts Spring Fling with Shinyribs (UPSTAIRS) @ Antone's
 Sat Mar 28 - Ari and The Artifacts, ForEach Loop, Shared Walls @ Hole In The Wall
@@ -88,6 +63,7 @@ Tue Mar 31 - Tue, Mar 31 @ Parker Jazz Club
 Tue Mar 31 - Tuesdays with John Mutchler @ Hole In The Wall
 Wed Apr 01 - An Evening of Reimagined Covers featuring NORI @ Monks Jazz Club
 Wed Apr 01 - Experimental Music Night feat. Whalerider, Joey Reyes, Jayk Wilson @ Radio East
+Wed Apr 01 - Hot Club of Cowtown @ Continental Club
 Wed Apr 01 - Invunche, True Iron Will, Merciless Savagery, Automated Execution @ The Lost Well
 Wed Apr 01 - The Casualties w/ Bullshit detector @ 29th Street Ballroom
 Wed Apr 01 - Tiffany’s “All This Time” Tour w/ The McGrath Project (TRIBEZA’s Birthday Bash) @ Antone's
@@ -108,7 +84,6 @@ Thu Apr 02 - Mclusky w/ Tear Dungeon and Subpar Snatch @ The Far Out Lounge and 
 Thu Apr 02 - Seth James / Jimmie Dreams & Friends @ Sam's Town Point
 Thu Apr 02 - Thu, Apr 02 @ Parker Jazz Club
 Thu Apr 02 - Votive Album Release Show, Votive, Shoganai, Clairvoyance, A Letter To Autumn @ Mohawk
-Thu Apr 02 - mclusky – North America Tour 2026 w/ Subpar Snatch in the Control Room @ Empire Control Room & Garage
 Fri Apr 03 - Aries Zodiac Party w/ Megafauna, Lauren Lakis, French Film @ The Far Out Lounge and Stage
 Fri Apr 03 - Baroness @ Radio East
 Fri Apr 03 - Bob Moses & Cannons @ Moody Amphitheater
@@ -121,7 +96,9 @@ Fri Apr 03 - Keepsake | Late Wife @ ABGB
 Fri Apr 03 - Liz Cooper w/ Brody Price @ Antone's
 Fri Apr 03 - Model/Actriz, Touching Ice, Almost Heaven @ Mohawk
 Fri Apr 03 - Rippleberry @ Angel's Icehouse
+Fri Apr 03 - Rosie and the Ramblers / Matt Tedder @ Sam's Town Point
 Fri Apr 03 - Ruze feat. Jazzy @ Kingdom
+Fri Apr 03 - Stalefish, Amelia's Best Friend, Twin Truth @ Hole In The Wall
 Fri Apr 03 - THE DIALTONES / VANNA BLACK @ Radio Coffee & Beer
 Fri Apr 03 - The Blues Specialists @ Continental Club
 Fri Apr 03 - The Droptines @ 3TEN Austin City Limits Live
@@ -129,13 +106,14 @@ Fri Apr 03 - The Reverent Few @ Saxon Pub
 Sat Apr 04 - Alejandro Escovedo & The Electric Saints - The live recording on vinyl is here! Come celebrate with us! @ Continental Club
 Sat Apr 04 - All Your Friends: THE INDIE PARTY @ 29th Street Ballroom
 Sat Apr 04 - Catch A Vibe – FaReal N’ Friends @ Flamingo Cantina
-Sat Apr 04 - Dankeshön @ Hole In The Wall
+Sat Apr 04 - Dankeshön (Nirvana) The Better Men (Pearl Jam) The Zomberries (The Cranberries) @ Hole In The Wall
 Sat Apr 04 - Dom Francis @ Guero's
 Sat Apr 04 - Drug Church, White Reaper, Death Lens, Drip-Fed @ Mohawk
 Sat Apr 04 - Earl Poole Ball @ Continental Club
 Sat Apr 04 - Ella Reid @ Meanwhile Brewing Company
 Sat Apr 04 - Erik Hokkanen & the Hip Replacements - Daytime Show! @ Radio Coffee & Beer
 Sat Apr 04 - Jamie Krueger @ Guero's
+Sat Apr 04 - Louisiana Surf Department, Lukas Hayden @ Continental Club
 Sat Apr 04 - Maria Somerville with Colle @ Radio East
 Sat Apr 04 - Rafael Cerato @ Kingdom
 Sat Apr 04 - Ramsay Midwood @ Sam's Town Point
@@ -146,6 +124,7 @@ Sat Apr 04 - Urban Music & Cultural Fest @ Moody Amphitheater
 Sat Apr 04 - Watchhouse with Paper Wings @ Austin City Limits Live at The Moody Theater
 Sat Apr 04 - Who's Bad @ Paramount Theater
 Sat Apr 04 - Yuuf w/ Bernardo Mountainair @ 13th Floor
+Sat Apr 04 - Zachary Ross / Offended By Everything / The Wayfarer’s Club @ Chess Club
 Sun Apr 05 - BOB APPEL @ ABGB
 Sun Apr 05 - Cocktail Steel w/Rose Sinclair @ Sam's Town Point
 Sun Apr 05 - Heybale @ Continental Club
@@ -157,9 +136,9 @@ Sun Apr 05 - Willie Pipkin & Friends @ Continental Club
 Mon Apr 06 - Bluegrass Night with The Bluegrass Outfit @ Radio Coffee & Beer
 Mon Apr 06 - Brad Stank w/ Dogwood Tales @ 13th Floor
 Mon Apr 06 - Eve Monsees & Mike Buck @ Continental Club
+Mon Apr 06 - Little Elmore Reed Blues Band / Steel Monday w/James Shelton @ Sam's Town Point
 Mon Apr 06 - Lonelyland @ Saxon Pub
 Mon Apr 06 - RACOMA w/ St. Yuma @ 29th Street Ballroom
-Mon Apr 06 - Steel Monday w/James Shelton / Little Elmore Reed Blues Band @ Sam's Town Point
 Tue Apr 07 - Carolyn Wonderland & Shelley King @ Continental Club
 Tue Apr 07 - Cece Coakley / Beatrix @ Chess Club
 Tue Apr 07 - Dead Meadow @ The Far Out Lounge and Stage
@@ -172,6 +151,7 @@ Tue Apr 07 - SOLD OUT – CupcakKe: The BakKery Tour @ Antone's
 Tue Apr 07 - Sarah Kinsley, Girlpuppy @ Mohawk
 Tue Apr 07 - Tue, Apr 07 @ Parker Jazz Club
 Wed Apr 08 - George Carver Trio / Libby & the Loveless / Guthrie Girls @ Sam's Town Point
+Wed Apr 08 - Hot Club of Cowtown @ Continental Club
 Wed Apr 08 - Knifeplay with Fawn @ Hotel Vegas
 Wed Apr 08 - Southern Avenue @ Antone's
 Wed Apr 08 - Spud Boy All-Stars: A Tribute to Jerry Garcia Band @ Radio East
@@ -183,7 +163,6 @@ Wed Apr 08 - Wednesdays with Alex Dupree @ Hole In The Wall
 Wed Apr 08 - William Harries Graham, Jon Dee Graham, Louisiana Surf Department @ Continental Club
 Wed Apr 08 - femtanyl w/ takihasdied and friends (tba) @ 29th Street Ballroom
 Thu Apr 09 - An Intimate Evening with Fred Frith @ The Rosette
-Thu Apr 09 - Barfield, The Tyrant @ Continental Club
 Thu Apr 09 - Casper Rawls @ Continental Club
 Thu Apr 09 - Day Friend / Ivy Mine / Two Legged Dog @ Chess Club
 Thu Apr 09 - George Strait @ Moody Center
@@ -194,6 +173,7 @@ Thu Apr 09 - The Vision, Screamin' J, and RCO Swamp @ Hole In The Wall
 Thu Apr 09 - Thu, Apr 09 @ Parker Jazz Club
 Thu Apr 09 - VIAL w/ Alex Vile @ 29th Street Ballroom
 Thu Apr 09 - Wanderin’ Pine @ Guero's
+Fri Apr 10 - Alex Riegelman / Specific Thing / Quinn Decker and the LLC @ Chess Club
 Fri Apr 10 - Collateral, Leave No Doubt, Nietzche Ke, Paradise, Nemesis @ Mohawk
 Fri Apr 10 - Earlybirds Club @ 3TEN Austin City Limits Live
 Fri Apr 10 - Emperor: The Emperial Wrath Tour with Blood Incantation @ Radio East
@@ -208,6 +188,7 @@ Fri Apr 10 - The Living Set, The Et Ceteras, John Wesley Coleman @ 13th Floor
 Fri Apr 10 - The Texases @ The Far Out Lounge and Stage
 Fri Apr 10 - The Thing w/ Grocery Bag & Sexpop @ Antone's
 Sat Apr 11 - Aname' Rose Band @ Drinks Backyard
+Sat Apr 11 - Animal Arcade | Tobias Lund @ ABGB
 Sat Apr 11 - Anuhea Live at Flamingo Cantina @ Flamingo Cantina
 Sat Apr 11 - Blackboot Family Band (10th Anniversary) @ Hole In The Wall
 Sat Apr 11 - Chris Simpson / Jeff Caudill / Salim Nouallah @ Chess Club
@@ -263,6 +244,7 @@ Fri Apr 17 - Jay Electronica with Stone God Cooks @ Empire Control Room & Garage
 Fri Apr 17 - Latin Dukes @ ABGB
 Fri Apr 17 - Lydia Lunch's Murderous Again w/ Genre is Death @ The Far Out Lounge and Stage
 Fri Apr 17 - Old Settler's Music Festival featuring Railroad Earth, The Brothers Comatose, Shinyribs, Lindsay Lou @ Camp Ben McCulloch
+Fri Apr 17 - SL Houser, CLUB COMA, Large Brush Collection @ Hole In The Wall
 Fri Apr 17 - Supertask @ 3TEN Austin City Limits Live
 Fri Apr 17 - TWICE @ Moody Center
 Fri Apr 17 - Velvet Daydream w/ Nate & The Moon Band, Lucyspin @ 13th Floor
@@ -278,13 +260,11 @@ Sat Apr 18 - Eric Heideman @ Guero's
 Sat Apr 18 - Honey Made @ Drinks Backyard
 Sat Apr 18 - Micky and the Motorcars @ 3TEN Austin City Limits Live
 Sat Apr 18 - Nappy Roots at Empire Control Room @ Empire Control Room & Garage
-Sat Apr 18 - Ramsay Midwood @ Sam's Town Point
 Sat Apr 18 - Rippleberry @ Jester King Brewing
 Sat Apr 18 - Sat, Apr 18 @ Parker Jazz Club
 Sat Apr 18 - SatchVai Band Ft Joe Satriani & Steve Vai with Animals As Leaders @ Austin City Limits Live at The Moody Theater
 Sat Apr 18 - TWICE @ Moody Center
 Sat Apr 18 - Voxtrot, Touch Girl Apple Blossom @ Mohawk
-Sun Apr 19 - Cocktail Steel w/Rose Sinclair @ Sam's Town Point
 Sun Apr 19 - Darci Carlson @ Guero's
 Sun Apr 19 - Nidia Góngora w / special guests Superfónicos @ Radio East
 Sun Apr 19 - Sun, Apr 19 @ Parker Jazz Club
@@ -301,7 +281,7 @@ Tue Apr 21 - Joy In Repetition—An Austin Salute 2 Prince with Grupo Fantasma &
 Tue Apr 21 - La Dispute, From Indian Lakes, Flooding @ Mohawk
 Tue Apr 21 - Return To Dust w/ Druidess @ 29th Street Ballroom
 Tue Apr 21 - Tue, Apr 21 @ Parker Jazz Club
-Wed Apr 22 - A Concert and Conversation with Hrishikesh Hirway and Special Guest @ 3TEN Austin City Limits Live
+Wed Apr 22 - A Concert and Conversation with Hrishikesh Hirway and moderator Austin Kleon with In The Last Hour of Light Tour @ 3TEN Austin City Limits Live
 Wed Apr 22 - George Carver Trio / Libby & the Loveless / Guthrie Girls @ Sam's Town Point
 Wed Apr 22 - MARSHALL HOOD @ ABGB
 Wed Apr 22 - Maddox Batson with Timmy McKeever @ Austin City Limits Live at The Moody Theater
@@ -318,7 +298,6 @@ Thu Apr 23 - The Crane Wives w / special guests Lilith Max @ Radio East
 Thu Apr 23 - Thu, Apr 23 @ Parker Jazz Club
 Thu Apr 23 - Tome and The Tones @ Guero's
 Thu Apr 23 - Tourist @ Mohawk
-Fri Apr 24 - Austin Blues Fest Late Show: Madam Radar & New Breed Brass Band w/ Nicky Diamonds @ Antone's
 Fri Apr 24 - Bruce Smith Band @ Guero's
 Fri Apr 24 - Canaan Cox @ 3TEN Austin City Limits Live
 Fri Apr 24 - Cobrah @ Radio East
@@ -331,12 +310,12 @@ Fri Apr 24 - Hot Donna’s Disco ft. Rick Wade @ Kingdom
 Fri Apr 24 - Jack Ingram & Friends Concert @ Austin City Limits Live at The Moody Theater
 Fri Apr 24 - Mean Jolene Single Release with Andrew Cashen and the Disciples and Gummy Fang @ Hole In The Wall
 Fri Apr 24 - Rippleberry @ White Tiger
+Fri Apr 24 - The Lonesome Heroes / Annie Ford / Amber Elison @ Radio Coffee & Beer
 Fri Apr 24 - Unofficial Pre- Goose Party w/ My Next Door Neighbor @ ABGB
 Fri Apr 24 - haha Laughing EP Release + Tour Kick Off Show ft. Fuck Money, Guiding Light, Égaux Sells @ Hotel Vegas
 Sat Apr 25 - All Skate @ Guero's
 Sat Apr 25 - Austin Blues Fest Late Show: D.K. Harrell & Pinettes Brass Band @ Antone's
 Sat Apr 25 - Austin Blues Festival @ Moody Amphitheater
-Sat Apr 25 - Austin Blues Festival 2026 🌞 (Saturday) @ Antone's
 Sat Apr 25 - Cass McCombs @ 29th Street Ballroom
 Sat Apr 25 - Cut Worms, Liam Kazar @ Mohawk
 Sat Apr 25 - Daniel Allan @ Kingdom
@@ -372,12 +351,13 @@ Tue Apr 28 - SOLD OUT – Lucy Bedroque w/ 9lives & kuru @ Antone's
 Tue Apr 28 - Tue, Apr 28 @ Parker Jazz Club
 Wed Apr 29 - A Night With David Lee Roth @ Austin City Limits Live at The Moody Theater
 Wed Apr 29 - La Santa Cecilia @ Antone's
-Wed Apr 29 - Libby & the Loveless / Guthrie Girls / Timmy Campbell Experience @ Sam's Town Point
+Wed Apr 29 - Timmy Campbell Experience / Libby & the Loveless / Guthrie Girls @ Sam's Town Point
 Wed Apr 29 - WARREN HOOD @ ABGB
 Wed Apr 29 - Wednesdays with Alex Dupree @ Hole In The Wall
 Thu Apr 30 - Agriculture @ Hole In The Wall
+Thu Apr 30 - Cormae, Big Bill, Team Trust @ Mohawk
 Thu Apr 30 - Curren$y: The Winner’s Circle Tour @ Empire Control Room & Garage
-Thu Apr 30 - Dogs In A Pile @ Mohawk
+Thu Apr 30 - Dogs In A Pile, My Next Door Neighbor @ Mohawk
 Thu Apr 30 - Ghostowne @ Guero's
 Thu Apr 30 - Maren Morris with slimdan @ Austin City Limits Live at The Moody Theater
 Thu Apr 30 - SOLD OUT – Buffalo Traffic Jam @ Antone's
@@ -463,12 +443,12 @@ Wed May 13 - Cheerleader Roadkill w/ Awannabe, Max Dia @ 29th Street Ballroom
 Wed May 13 - Prince Daddy & the Hyena w/ Remo Drive & Restraining Order @ Antone's
 Wed May 13 - The Dear Hunter, Closure In Moscow, K Sera @ Mohawk
 Wed May 13 - The Silos @ Hole In The Wall
-Wed May 13 - Timmy Campbell Experience / Libby & the Loveless @ Sam's Town Point
+Wed May 13 - Timmy Campbell Experience / Libby & the Loveless / Guthrie Girls @ Sam's Town Point
 Thu May 14 - Ashley Kutcher with Bellah Mae @ 3TEN Austin City Limits Live
 Thu May 14 - Magic Tubers Stringband / Little Mazarn / Eliza Niemi @ Radio East
 Thu May 14 - Old Mervs @ Antone's
 Thu May 14 - Quiet Light @ 29th Street Ballroom
-Thu May 14 - Taylor Hollingsworth / Seth James / Dash Rip Rock / Jimmie Dreams & Friends @ Sam's Town Point
+Thu May 14 - Taylor Hollingsworth / Seth James / Jimmie Dreams & Friends / Dash Rip Rock @ Sam's Town Point
 Thu May 14 - The Avett Brothers and Mike Patton: AVTT/PTTN @ Moody Center
 Thu May 14 - moe. @ Mohawk
 Fri May 15 - EASY HONEY @ 29th Street Ballroom
@@ -490,9 +470,10 @@ Sun May 17 - The Black Crowes and Whiskey Myers @ Moody Center
 Mon May 18 - SOLD OUT – Gary Clark Jr. @ Antone's
 Mon May 18 - Shrekfest 2024 @ Swan Dive
 Mon May 18 - Steel Monday with Steve Palousek / Little Elmore Reed Blues Band @ Sam's Town Point
-Tue May 19 - Blood Club ft. Future Nobodies @ Hotel Vegas
+Tue May 19 - Blood Club ft. Future Nobodies, Heels @ Hotel Vegas
 Tue May 19 - Floyd Domino's All Stars @ Sam's Town Point
 Tue May 19 - MEMORIALS @ 13th Floor
+Wed May 20 - The Gourds @ Paramount Theater
 Wed May 20 - Timmy Campbell Experience / Libby & the Loveless / Guthrie Girls @ Sam's Town Point
 Thu May 21 - Blood Sucking Maniacs @ Paramount Theater
 Thu May 21 - DAMAG3 w/ Amber Ryann and Sage X Price @ The Far Out Lounge and Stage
@@ -526,7 +507,9 @@ Mon May 25 - Steel Monday w/ @ Sam's Town Point
 Tue May 26 - South ATX Serenaders (Hawaiian Trio) @ Sam's Town Point
 Wed May 27 - George Carver Trio / Libby & the Loveless / Guthrie Girls @ Sam's Town Point
 Wed May 27 - Wed, May 27 @ Parker Jazz Club
+Thu May 28 - Seth James / Jimmie Dreams & Friends @ Sam's Town Point
 Thu May 28 - Thu, May 28 @ Parker Jazz Club
+Fri May 29 - Garrett T Capps / Leo Rondeau @ Sam's Town Point
 Fri May 29 - Godsmack @ Germania Insurance Amphitheater
 Fri May 29 - HOUSE OF HEAVY @ 29th Street Ballroom
 Fri May 29 - Helsloot @ Kingdom
@@ -553,6 +536,7 @@ Sat Jun 06 - HeartByrne - A Tribute To Talking Heads @ Radio East
 Sat Jun 06 - Kelsy Karter & The Heroines: The Pleasure Tour w/ Grace McKagen @ Antone's
 Sat Jun 06 - White Denim @ Mohawk
 Sun Jun 07 - Ray Bull: Please Stop Laughing Tour w/ Babehoven @ Antone's
+Mon Jun 08 - Madison Beer @ Moody Center
 Mon Jun 08 - with METRIC, BROKEN SOCIAL SCENE, AND STARS @ Moody Amphitheater
 Wed Jun 10 - Between the Buried and Me, Imperial Triumphant, Fallujah @ Mohawk
 Wed Jun 10 - Girl Named Tom @ Antone's
@@ -585,3 +569,4 @@ Fri Jun 26 - Elmo's Got The Moves! @ Austin City Limits Live at The Moody Theate
 Fri Jun 26 - Leo Middea @ 13th Floor
 Fri Jun 26 - Rostam, Henry Solomon @ Mohawk
 Fri Jun 26 - TsuShiMaMiRe @ 29th Street Ballroom
+Sat Jun 27 - Taylorville @ Moody Amphitheater

@@ -1,13 +1,3 @@
-Mon Apr 13 - Bluegrass Night with The Bluegrass Outfit @ Radio Coffee & Beer
-Mon Apr 13 - Dallas Cowboys Cheerleaders LIVE! @ Austin City Limits Live at The Moody Theater
-Mon Apr 13 - Eve Monsees & Mike Buck @ Continental Club
-Mon Apr 13 - Lonelyland @ Saxon Pub
-Mon Apr 13 - Matt Tedder @ Continental Club
-Mon Apr 13 - Metal Mondays w/ Bridges Ablaze, Lift The Curse, Dining With Devils @ The Far Out Lounge and Stage
-Mon Apr 13 - Mondays with Julian Neel ft. Austin Leonard Jones & Skyler Davey @ Hole In The Wall
-Mon Apr 13 - SOLD OUT – yung kai: stay with the ocean, i’ll find you tour w/ Breezee @ Antone's
-Mon Apr 13 - Steel Monday w/Jim Loessberg / Little Elmore Reed Blues Band @ Sam's Town Point
-Mon Apr 13 - Sulfuric Cautery, Raw Addict, Chest Pain, Blastochist, Deprivation @ Mohawk
 Tue Apr 14 - Bob Wills Night w/the Super Swing Revue / Linda Gail Lewis @ Sam's Town Point
 Tue Apr 14 - Ha! Ha! Storytime: A Storytelling Gameshow @ Radio Coffee & Beer
 Tue Apr 14 - James McMurtry and The Martial Law Review, Mule Ears @ Continental Club
@@ -109,8 +99,8 @@ Mon Apr 20 - 4/20 Metal Mondays w/ High Desert Queen, Gran Moreno, Mars God @ Th
 Mon Apr 20 - 420 Special with Ba$e & Friends @ Hotel Vegas
 Mon Apr 20 - Bluegrass Night with The Bluegrass Outfit @ Radio Coffee & Beer
 Mon Apr 20 - Coffee & CARs (Controlled Articular Rotations) with Audrey @ Radio East
-Mon Apr 20 - Dale Watson @ Continental Club
 Mon Apr 20 - Eve Monsees & Mike Buck @ Continental Club
+Mon Apr 20 - Johnny Pandora, Dale Watson @ Continental Club
 Mon Apr 20 - Little Feat @ Paramount Theater
 Mon Apr 20 - Lonelyland @ Saxon Pub
 Mon Apr 20 - Mondays with Julian Neel ft. Marley Hale & Longriver @ Hole In The Wall
@@ -221,7 +211,9 @@ Sun Apr 26 - Sonny Wolf @ Guero's
 Sun Apr 26 - Sun, Apr 26 @ Parker Jazz Club
 Sun Apr 26 - The Flowertones, J. Killen, Devin Hopwood @ Hole In The Wall
 Sun Apr 26 - Together Pangea and The Red Pears w/ The High Curbs @ Emo's
+Sun Apr 26 - Willie Pipkin & Friends @ Continental Club
 Mon Apr 27 - Bluegrass Night with The Bluegrass Outfit @ Radio Coffee & Beer
+Mon Apr 27 - Eve Monsees & Mike Buck @ Continental Club
 Mon Apr 27 - Flyte w/ Samantha Crain @ Antone's
 Mon Apr 27 - Good Kid - Can We Hang Out? Tour @ Emo's
 Mon Apr 27 - Lonelyland @ Saxon Pub
@@ -231,7 +223,7 @@ Mon Apr 27 - Steel Monday w/ @ Sam's Town Point
 Tue Apr 28 - Ashnikko @ Austin City Limits Live at The Moody Theater
 Tue Apr 28 - Boulet Brothers' Dragula: Titans 2 Tour @ Emo's
 Tue Apr 28 - Geoff Queen & Josh Hoag / Twisted Swingers feat. Alice Spencer / South ATX Serenaders (Hawaiian Trio) @ Sam's Town Point
-Tue Apr 28 - Inner Wave, Los Mesoneros @ Mohawk
+Tue Apr 28 - Inner Wave, Los Mesoneros, Twin Seas @ Mohawk
 Tue Apr 28 - Josh Ritter @ Paramount Theater
 Tue Apr 28 - Kate Clover + Jenny Don't And The Spurs @ 13th Floor
 Tue Apr 28 - LSD Tuesdays with Jake Ames ft. Grace Rowland, Chase Weinacht, Harrison Anderson @ Hole In The Wall
@@ -297,7 +289,7 @@ Sun May 03 - Sun, May 03 @ Parker Jazz Club
 Sun May 03 - Texas Indie OysterFest III @ The Far Out Lounge and Stage
 Mon May 04 - Architects @ Stubb's
 Mon May 04 - Florence + The Machine @ Moody Center
-Mon May 04 - HBO QUIZZO: Heated Rivalry, Hosted By Anna Troxell @ Mohawk
+Mon May 04 - HBO QUIZZO: Mad Men, Hosted By Anna Troxell @ Mohawk
 Mon May 04 - RAYE @ Moody Amphitheater
 Mon May 04 - SOLD OUT – Gary Clark Jr. @ Antone's
 Mon May 04 - Steel Monday w/James Shelton / Little Elmore Reed Blues Band @ Sam's Town Point
@@ -460,8 +452,8 @@ Sat May 23 - Sat, May 23 @ Parker Jazz Club
 Sat May 23 - Sports, Ally Evenson @ Mohawk
 Sat May 23 - Two-Step Night @ Moody Amphitheater
 Sun May 24 - Demi Lovato @ Moody Center
-Sun May 24 - Grateful Talking Dead Heads w/ Lucas Parker and Jessica Paige @ The Far Out Lounge and Stage
 Sun May 24 - José María Napoleón @ Austin City Limits Live at The Moody Theater
+Sun May 24 - Katzman and Coach - Slaying Across America Tour @ The Far Out Lounge and Stage
 Sun May 24 - Sun, May 24 @ Parker Jazz Club
 Sun May 24 - We Are Scientists @ Mohawk
 Sun May 24 - Your Neighbors with VISION ARCADE @ 3TEN Austin City Limits Live
@@ -597,3 +589,4 @@ Fri Jul 10 - Wavves, Bass Drum of Death, Worlds Worst @ Mohawk
 Fri Jul 10 - Young the Giant: Victory Garden Tour @ Moody Amphitheater
 Sat Jul 11 - Hatebreed: SUMMER SLAUGHTER TOUR 2026 @ Emo's
 Mon Jul 13 - Kurt Vile and The Violators with Being Dead @ Austin City Limits Live at The Moody Theater
+Tue Jul 14 - Tori Amos with Bartees Strange @ Austin City Limits Live at The Moody Theater

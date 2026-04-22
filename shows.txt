@@ -1,8 +1,3 @@
-Tue Apr 21 - Alice Phoebe Lou @ Paramount Theater
-Tue Apr 21 - Benjamin Tod and the Inline Six 2026 Tour @ Emo's
-Tue Apr 21 - Joy In Repetition—An Austin Salute 2 Prince with Grupo Fantasma & Special Guests @ Antone's
-Tue Apr 21 - La Dispute, From Indian Lakes, Flooding @ Mohawk
-Tue Apr 21 - Return To Dust w/ Druidess @ 29th Street Ballroom
 Wed Apr 22 - A Concert and Conversation with Hrishikesh Hirway and moderator Austin Kleon with In The Last Hour of Light Tour @ 3TEN Austin City Limits Live
 Wed Apr 22 - Bee Blackwell / Blvck Hippie / Team Trust / Michael Sanders @ Chess Club
 Wed Apr 22 - Dreadneck Wednesdays @ Flamingo Cantina
@@ -62,8 +57,9 @@ Sat Apr 25 - DJ Mel @ 3TEN Austin City Limits Live
 Sat Apr 25 - DJ SOULARREAL on the Hotel Patio! @ Hotel Vegas
 Sat Apr 25 - Daniel Allan @ Kingdom
 Sat Apr 25 - Disco Tex (ABBA Tribute) @ Drinks Backyard
-Sat Apr 25 - Los Alcos & friends @ Hotel Vegas
+Sat Apr 25 - Los Alcos, Novus Rose, Zach Black Band @ Hotel Vegas
 Sat Apr 25 - Mt. Joy @ Moody Center
+Sat Apr 25 - OBNOX, Plastique, Yard Work @ 13th Floor
 Sat Apr 25 - Pet Prom @ ABGB
 Sat Apr 25 - Rhinestone Renegades @ Guero's
 Sat Apr 25 - STS9 @ Austin City Limits Live at The Moody Theater
@@ -101,6 +97,7 @@ Wed Apr 29 - A Night With David Lee Roth @ Austin City Limits Live at The Moody 
 Wed Apr 29 - Bloodywood: System Of A Brown Tour 2026 @ Emo's
 Wed Apr 29 - Dreadneck Wednesdays @ Flamingo Cantina
 Wed Apr 29 - La Santa Cecilia @ Antone's
+Wed Apr 29 - Rippleberry, Lieutenant Obvious, Spank Communication @ Valhalla Tavern
 Wed Apr 29 - Shivering Demons, Knocked Up, Wasted, Girl Dinner @ Hotel Vegas
 Wed Apr 29 - WARREN HOOD @ ABGB
 Thu Apr 30 - Ari Lennox - The Vacancy Tour @ Stubb's
@@ -116,6 +113,7 @@ Thu Apr 30 - Mad Vibez with D-Madness Thursday Residency @ Flamingo Cantina
 Thu Apr 30 - Maren Morris with slimdan @ Austin City Limits Live at The Moody Theater
 Thu Apr 30 - Mars & Other Planets, Larsen West, Megafauna, Dream Eater @ 13th Floor
 Thu Apr 30 - SOLD OUT – Buffalo Traffic Jam: Take Me Home w/ Slater Nalley @ Antone's
+Fri May 01 - All Fours / Blue Ribbon / Georgia Britt @ Chess Club
 Fri May 01 - Avery Lynch with Julia Campbell @ 3TEN Austin City Limits Live
 Fri May 01 - Chameleons, The Veldt @ Mohawk
 Fri May 01 - Courtney Barnett @ Radio East
@@ -128,6 +126,7 @@ Fri May 01 - Lil’ Ed & the Blues Imperials @ Antone's
 Fri May 01 - Los Lobos @ Paramount Theater
 Fri May 01 - STYFF ANYSS, SEX PUMP, ZERO PERCENT @ 13th Floor
 Fri May 01 - Soulman Sam @ ABGB
+Fri May 01 - Taurus Zodiac Party w/ The Diamond Center, Floating Cube, Pipe @ The Far Out Lounge and Stage
 Fri May 01 - The Paper Kites - If You Go There, I Hope You Find It (US/Canada Tour) @ Emo's
 Fri May 01 - soul blind w/ Split Chain, Downward, Dream Fatigue @ 29th Street Ballroom
 Sat May 02 - Aaron Behrens of Ghostland Observatory and Adam Walker of Me Nd Adam @ Saxon Pub
@@ -290,6 +289,7 @@ Sat May 23 - Anxious! At The Disco @ 3TEN Austin City Limits Live
 Sat May 23 - HORSE MEAT DISCO – SWEAT MEMORIAL WEEKEND @ Kingdom
 Sat May 23 - Here Be Monsters @ Radio East
 Sat May 23 - Sports, Ally Evenson @ Mohawk
+Sat May 23 - The English Channels (Cure Tribute) w/ Lost Control (Joy Division / New Order) and Hours Quiet @ The Far Out Lounge and Stage
 Sat May 23 - Two-Step Night @ Moody Amphitheater
 Sun May 24 - Demi Lovato @ Moody Center
 Sun May 24 - José María Napoleón @ Austin City Limits Live at The Moody Theater
@@ -432,4 +432,6 @@ Thu Jul 16 - Brit Floyd @ Austin City Limits Live at The Moody Theater
 Fri Jul 17 - High Fade, High Fade @ Mohawk
 Fri Jul 17 - Qveen Herby with Thot Squad @ Austin City Limits Live at The Moody Theater
 Sun Jul 19 - Elijah Scott @ 3TEN Austin City Limits Live
+Mon Jul 20 - Marcos Valle @ Mohawk
 Mon Jul 20 - Tomahawk @ Emo's
+Wed Jul 22 - Sincere Engineer – The Probable Claws Tour w/ Sulynn Hago & Smug LLC @ Antone's

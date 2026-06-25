@@ -143,6 +143,12 @@ def scrape():
                 "Hole In The Wall","Parker Jazz Club","Continental Club", "Guero's", "ABGB"]:
                 continue
 
+            # Exclude certain artists/titles
+            if any(term.lower() in title.lower() for term in [
+                "Hotel Patio",
+            ]):
+                continue
+
             results.append([date_str, formatted_date, title, venue, link])
 
     # Sort by date, then title

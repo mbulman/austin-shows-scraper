@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import os
 import sys
+import re
 
 URL = "https://austin.showlists.net/"
 
@@ -141,6 +142,19 @@ def scrape():
             # Exclude things we won't tend to care about
             if venue in ["Elephant Room", "Sagebrush", "C-Boy’s Heart & Soul", "Sam's Town Point",
                 "Hole In The Wall","Parker Jazz Club","Continental Club", "Guero's", "ABGB"]:
+                continue
+
+            skip_venues = [
+                "Elephant Room",
+                "Sagebrush",
+                "Heart & Soul",
+                "Kingdom",
+                "Sam's Town Point",
+                "Hole In The Wall",
+                "Parker Jazz Club",
+            ]
+
+            if any(re.search(pattern, venue) for pattern in skip_venues):
                 continue
 
             # Exclude certain artists/titles

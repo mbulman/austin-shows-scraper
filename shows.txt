@@ -1,9 +1,3 @@
-Mon Nov 09 - Bluegrass Night with The Bluegrass Outfit @ Radio Coffee & Beer
-Mon Nov 09 - Metal Mondays w/ Dayeater, Sneaky Sneaky, Silver Hour @ The Far Out Lounge and Stage
-Mon Nov 09 - Rival Sons - Domestic Bliss Tour @ Emo's
-Mon Nov 09 - Seal @ Austin City Limits Live at The Moody Theater
-Mon Nov 09 - Taylor Bickett @ Chess Club
-Mon Nov 09 - The PIXIE Tour w/ Sophie Cates @ Antone's
 Tue Nov 10 - Greg Freeman w/ Touch Girl Apple Blossom @ Antone's
 Tue Nov 10 - Ha! Ha! Storytime: A Storytelling Gameshow @ Radio Coffee & Beer
 Tue Nov 10 - Jazz Night featuring Cento & Martin @ Aristocrat Lounge
@@ -35,6 +29,7 @@ Thu Nov 12 - Space Action Cowboy w/ Saint Judas and The Black Hymns, Shudawgy @ 
 Thu Nov 12 - The Rubicon Crossing, SELVA NEGRA Experiencia ManÃ¡ @ Sahara Lounge
 Thu Nov 12 - Treaty Oak Revival @ Moody Center
 Fri Nov 13 - Cilantro Boombox, Hard Proof, Crowns ATX @ Sahara Lounge
+Fri Nov 13 - Concert For Benny @ Radio Coffee & Beer
 Fri Nov 13 - Daisychain w/ Heavy Velvet and Spiral @ 13th Floor
 Fri Nov 13 - Dead Music's 15 Year Anniversary and Single Release Show featuring Dead Music Capital Band @ Live Oak Brewing Company
 Fri Nov 13 - Earlybirds Club @ Austin City Limits Live at The Moody Theater
@@ -58,6 +53,7 @@ Sat Nov 14 - King Buffalo, L.A. Witch @ Mohawk
 Sat Nov 14 - Michael Blaustein @ Austin City Limits Live at The Moody Theater
 Sat Nov 14 - Olive Jones @ 3TEN Austin City Limits Live
 Sat Nov 14 - Ruthie Craft & KNETX @ Stubb's
+Sat Nov 14 - Sugaree & Cold Sweat @ Antone's
 Sat Nov 14 - Switchfoot with special guest Anberlin - Forever Now Tour @ Stubb's
 Sat Nov 14 - Tom Petty and the Heartbreakers Self-Titled Debut Album 50th Anniversary Party! @ The Far Out Lounge and Stage
 Sat Nov 14 - Wednesday & Mannequin Pussy @ Radio East
@@ -72,6 +68,7 @@ Sun Nov 15 - Razzfest 2026: A Celebration of Rap and Jazz @ The Far Out Lounge a
 Mon Nov 16 - Blue Monday w/ Soul Man Sam & Lindsay Beaver @ Antone's
 Mon Nov 16 - Bluegrass Night with The Bluegrass Outfit @ Radio Coffee & Beer
 Tue Nov 17 - Amble @ Emo's
+Tue Nov 17 - Dose Rose (EP Release), Albuterol Baby, Tvlormvde @ Hotel Vegas
 Tue Nov 17 - Kevin Abstract, Knox Write @ Mohawk
 Tue Nov 17 - The Return of the Pre-Roll (Scout Edition) @ Flamingo Cantina
 Tue Nov 17 - Theo Kandel @ Stubb's
@@ -94,6 +91,7 @@ Thu Nov 19 - KUTX's Horizontes Pres:Aterciopelados: La Pipa De Laz Paz 30 Anos T
 Thu Nov 19 - Los Dos de Tamaulipas @ Austin City Limits Live at The Moody Theater
 Thu Nov 19 - Mock Lobster with CorMae @ Hotel Vegas
 Thu Nov 19 - Tank and The Bangas: The Last Balloon Tour w/ Ariel J. & ZEUS (NIGHT ONE) @ Antone's
+Thu Nov 19 - The Crystal Fall & Paper Sister @ Stubb's
 Thu Nov 19 - The Wrecks - Finally : OUTSIDE Tour @ Radio East
 Fri Nov 20 - Angel Fur (Album Release Show) / Lucyspin / Elday @ Chess Club
 Fri Nov 20 - Bryan Andrews @ 3TEN Austin City Limits Live
@@ -148,7 +146,7 @@ Sat Nov 28 - Nine Mile Records' 20th Anniversary party feat. Glorietta @ Radio E
 Sat Nov 28 - Pretty Sick, Sex Week @ Mohawk
 Sat Nov 28 - Punchis! Punchis! Banda Rave @ Emo's
 Sat Nov 28 - Ripe @ Scoot Inn
-Sat Nov 28 - Soulfiya, Kroywen, Sgt Remo, Krucial Rootz - Dancehall & Reggae @ Flamingo Cantina
+Sat Nov 28 - Soulfiya, Kroywen, Sgt Remo, Krucial Rootz â Dancehall & Reggae @ Flamingo Cantina
 Sat Nov 28 - The 36th Annual John Lennon Tribute with The #9 Orchestra @ 3TEN Austin City Limits Live
 Sun Nov 29 - BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON @ Austin City Limits Live at The Moody Theater
 Sun Nov 29 - Golden Hour Quartet - Every Sunday! @ Radio Coffee & Beer
@@ -165,6 +163,7 @@ Thu Dec 03 - Danny Brown, 10th Anniversary of Atrocity Exhibition, Cure For Para
 Thu Dec 03 - Erik Hokkanen & the Hip Replacements @ Radio Coffee & Beer
 Thu Dec 03 - Los Tucanes de Tijuana @ Austin City Limits Live at The Moody Theater
 Thu Dec 03 - Michael Smoak @ 3TEN Austin City Limits Live
+Thu Dec 03 - Micky Bang @ The Far Out Lounge and Stage
 Thu Dec 03 - Texas Observer presents The Rabble Rouser featuring A. Sinclair, Sentimental Family Band @ 29th Street Ballroom
 Thu Dec 03 - Under The Rock & SIMS w/ West Texas Exiles, Louisiana Surf Department & Caroline Hale @ Antone's
 Fri Dec 04 - Almost Woodstock '99 w/ Tributes to Limp Bizkit, Linkin Park, Rage Against The Machine, Incubus @ 13th Floor
@@ -232,6 +231,7 @@ Fri Dec 18 - The Sword, American Sharks, Skloss @ Mohawk
 Fri Dec 18 - William Beckmann @ Austin City Limits Live at The Moody Theater
 Sat Dec 19 - Buster and the Innocents w/ The East and The Crow @ The Far Out Lounge and Stage
 Sat Dec 19 - Lucy Bedroque, Pinponpanpon @ Mohawk
+Sat Dec 19 - MERRY KISS-MAS @ Hotel Vegas
 Sat Dec 19 - Skyrocket! @ 3TEN Austin City Limits Live
 Sat Dec 19 - Soulhat w/ English Teeth @ Antone's
 Sun Dec 20 - Golden Hour Quartet - Every Sunday! @ Radio Coffee & Beer
@@ -293,5 +293,6 @@ Sat Feb 06 - Gracie Abrams @ Moody Center
 Sat Feb 06 - Rebirth Brass Band @ 3TEN Austin City Limits Live
 Sun Feb 07 - Madds Buckley @ Antone's
 Sun Feb 07 - The Fab Four: A HARD DAY'S NIGHT @ Austin City Limits Live at The Moody Theater
+Wed Feb 10 - Surfer Girl w / special guests South Summit & Joby! @ Radio East
 Sat Oct 16 - FREE SHOW FRIDAY! featuring Mypilotis, Commercial Breaks, Two Legged Dog, Tokyo Vinly, Slept All Day @ Fortune Teller
 Sat Oct 30 - Blood Nasty Sideshow (FREE SHOW!) featuring Megafuana, Dayeater, Naga Bruja + Tattoo Pop up & Night Market @ Fortune Teller
